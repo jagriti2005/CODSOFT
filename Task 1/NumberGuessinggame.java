@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class GuessTheNumber {
+public class NumberGuessinggame {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         Random rand = new Random();
