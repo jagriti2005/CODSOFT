@@ -38,12 +38,12 @@ This is a fun interactive game where the computer picks a random number between 
 
 1. **Compile the program:**
    ```bash
-   javac GuessTheNumber.java
+   javac NumberGuessinggame.java
    ```
 
 2. **Run the program:**
    ```bash
-   java GuessTheNumber
+   java NumberGuessinggame
    ```
 
 ## Sample Gameplay
@@ -76,7 +76,7 @@ Your score: 50 points
 ## Project Structure
 
 ```
-GuessTheNumber.java    # Main game file containing all game logic
+NumberGuessinggame.java    # Main game file containing all game logic
 README.md             # This documentation file
 ```
 
